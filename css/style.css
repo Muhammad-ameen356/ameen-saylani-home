@@ -1,0 +1,203 @@
+.top {
+    background-color: #316DC3;
+    color: white;
+    text-align: center;
+    line-height: 49px;
+    font-size: 14px;
+}
+
+.top i {
+    color: white;
+    margin-left: 16px;
+}
+
+.cole .navbar-default {
+    background-color: #f7f8fa;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    position: static;
+}
+
+.cole .nav li a {
+    color: black;
+    font-size: 14px;
+    padding: 8px 16px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.cole .nav li a:hover {
+    color: white;
+    background-color: #316dc3;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+.first-marquee marquee {
+    background-color: #316DC3;
+    color: white;
+}
+
+.intro {
+    color: rgb(49, 109, 195);
+    font-size: 33px;
+    font-family: Merriweather, serif;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+}
+
+.duction {
+    color: green;
+    font-size: 33px;
+    font-family: Merriweather, serif;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+}
+
+.introduction {
+    font-family: Open Sans, sans-serif;
+    color: #797878;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.counting {
+    background-color: rgb(39, 43, 240);
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 44px;
+}
+
+.counting img {
+    margin-bottom: -30px;
+}
+
+.counting font {
+    color: rgb(0, 255, 0);
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Merriweather', serif;
+    margin-left: -3px;
+}
+
+.counting h1 {
+    font-size: 48px;
+    font-family: 'Merriweather', serif;
+}
+
+.counting h5 {
+    font-family: 'Merriweather', serif;
+    display: inline;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.doing .col-md-6 {
+    background-color: white;
+    border: 2xp solid black;
+    box-shadow: 10px 5px 18px #797878, 0.1px 0.3px 10px #797878;
+    text-align: center;
+    margin-bottom: 39px;
+    padding: 63px;
+    justify-content: space-around;
+    text-transform: uppercase;
+    color: rgb(39, 43, 240);
+    font-family: 'Merriweather', serif;
+    font-size: x-large;
+}
+
+.box {
+    box-model: border-box;
+    border: 6px solid transparent;
+    background-clip: padding-box;
+    border-radius: 20px;
+}
+
+.doing img {
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+
+.pg-colour {
+    background-color: rgb(247, 247, 247);
+}
+
+.image-gallery {
+    margin-top: 40px;
+}
+
+.bottom {
+    height: 400px;
+    background-color: rgb(37, 39, 46);
+    text-align: left;
+    color: #bbb;
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 800px) {
+    .bottom {
+        height: 500px;
+    }
+}
+
+.bottom .bot {
+    margin-top: 20px;
+}
+
+.copy {
+    background-color: #316dd9;
+}
+
+.copy p {
+    font-size: 12px;
+    color: white;
+    margin-top: 10px;
+    font-family: 'Merriweather', serif;
+}
+
+.missiona .hep {
+    background-color: #f7f8fa;
+    margin-bottom: 30px;
+    padding: 10px;
+    box-shadow: 2px 2px 18px black;
+}
+
+.missiona .house {
+    background-color: #f7f8fa;
+    margin-bottom: 30px;
+    padding: 10px;
+    box-shadow: 2px 2px 18px black;
+}
+
+.missiona .it {
+    background-color: #f7f8fa;
+    margin-bottom: 30px;
+    padding: 10px;
+    box-shadow: 2px 2px 18px black;
+}
+
+.missiona .thar {
+    background-color: #f7f8fa;
+    padding: 11px;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 18px black;
+}
+
+.missiona p {
+    display: inline;
+    color: rgb(39, 43, 240);
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.missionb marquee {
+    background-color: none;
+}
+
+.line {
+    color: green;
+    font-size: 33px;
+}
