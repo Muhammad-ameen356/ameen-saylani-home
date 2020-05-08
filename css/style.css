@@ -143,7 +143,11 @@
 }
 
 .bottom .bot {
-    margin-top: 20px;
+    margin-top: 30px;
+}
+.bottom .bot i {
+    color: rgb(24, 177, 24);
+    margin-right: 2px;
 }
 
 .copy {
